@@ -1,7 +1,6 @@
 # Sofa.github.io
 
 
-</head>
 <body>
     <form method="post">
         <p>Ф.И.О.: <input type="text" name="fio"></p>
@@ -11,7 +10,3 @@
         <p><input type="submit" value="Отправить"></p>
     </form>
 </body>
-</html>
-
-
-<?php
