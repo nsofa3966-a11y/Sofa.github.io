@@ -1,8 +1,6 @@
 # Sofa.github.io
 
-<html>
-<head>
-    <title>Форма регистрации</title>
+
 </head>
 <body>
     <form method="post">
