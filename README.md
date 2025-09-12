@@ -1,9 +1,10 @@
 # Sofa.github.io
 
 
-<body>
+<body style="color: purple;">
     <form method="post">
         <p>Ф.И.О.: <input type="text" name="fio"></p>
+        <p>Возраст: <input type="number" name="age"></p>
         <p>Адрес: <input type="text" name="address"></p>
         <p>Email: <input type="email" name="email"></p>
         <p>Пароль: <input type="password" name="password"></p>
