@@ -11,3 +11,9 @@
         <p><input type="submit" value="Отправить"></p>
     </form>
 </body>
+<iframe 
+  src="https://docs.google.com/spreadsheets/d/1WhQxRGitgLLuTnhUtk2BVbg8vOaJbtfGV07PIO-2y5w/edit?usp=sharing"
+  src=""
+  width="100%" 
+  height="600px">
+</iframe>
